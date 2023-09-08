@@ -1,3 +1,3 @@
 # portfolio-page
 
-https://dubemobi.github.io/portfolio-page/#contact
+https://dubemobi.github.io/portfolio-page/
